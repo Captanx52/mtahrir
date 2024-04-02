@@ -1,0 +1,16 @@
+/* styles.css */
+
+#word {
+    position: absolute;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#typed {
+    font-size: 24px;
+    font-weight: bold;
+    color: orange;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
