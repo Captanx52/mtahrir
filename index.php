@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="word"></div>
+    <!-- <div id="word"></div> -->
     <div id="typed"></div>
     <!-- <input type="text" id="userInput">
     <button onclick="checkWord()">Submit</button> -->
