@@ -102,6 +102,7 @@ include 'header.php';
         // Redirect the page with success message
         window.location.href = 'import.php?success=true';
     }
+</script>
 <?php
 // Include Footer
 include 'footer.php';
