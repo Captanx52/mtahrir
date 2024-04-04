@@ -30,6 +30,7 @@ include 'header.php';
     }
     paragraph.addEventListener('keyup', textareaLengthCheck);
     paragraph.addEventListener('keydown', textareaLengthCheck);
+    paragraph.addEventListener('paste', textareaLengthCheck);
 
     // Analyze paragraph
     function analyzeParagraph() {
