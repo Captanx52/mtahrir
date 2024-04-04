@@ -14,5 +14,16 @@
 </head>
 <body>
     <header>
+        <div class="columns-holder">
+            <div class="column links">
+
+            </div>
+            <div class="column logo">
+
+            </div>
+            <div class="column links">
+
+            </div>
+        </div>
     </header>
     <div class="container">
