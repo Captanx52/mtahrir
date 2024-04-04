@@ -1,17 +1,10 @@
-<div align="center">
-    <a href="https://github.com/Captanx52/mtahrir"><img src="https://mtahr.ir/favicon.svg" alt="Logo" width="80" height="80"></a>
-    <h3 align="center">MTahrir</h3>
-    <p align="center">
-        Supercharge Your Persian Typing Skills with Speed and Precision
-    </p>
-    <a href="https://mtahr.ir">View Demo</a>
-    ·
-    <a href="https://github.com/Captanx52/mtahrir/issues">Report an Issue or Request a Feature</a>
-    ·
-    <a href="https://github.com/Captanx52/mtahrir/pulls">Collaborate</a>
-</div>
+# MTahrir
 
-<br>
+![Logo](https://mtahr.ir/favicon.svg)
+
+Supercharge Your Persian Typing Skills with Speed and Precision
+
+[View Demo](https://mtahr.ir) · [Report an Issue or Request a Feature](https://github.com/Captanx52/mtahrir/issues) · [Collaborate](https://github.com/Captanx52/mtahrir/pulls)
 
 ## About The Project
 
@@ -25,7 +18,6 @@ MTahrir is built using a combination of frontend and backend technologies:
 * Backend: PHP
 * Database: MySQL
 
-
 ## Getting Started
 
 To get started with Flasher, follow these steps:
@@ -33,12 +25,13 @@ To get started with Flasher, follow these steps:
 1. Clone the repository to your local machine.
 2. Update the db_connection.php file with your own database information.
 3. Create the database for words using the following SQL code:
-```
+
+```sql
 CREATE DATABASE IF NOT EXISTS mtahrir_words CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE mtahrir_words;
 CREATE TABLE IF NOT EXISTS words (
     word_id INT AUTO_INCREMENT PRIMARY KEY,
-    persian_word TEXT NOT NULL
+    word TEXT NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 ```
 
@@ -46,7 +39,7 @@ CREATE TABLE IF NOT EXISTS words (
 
 ### Version 1.0.0
 
-Initial commits and files created. There's still a lot to do!
+Initial commits and files created. There's still a lot to do, but we're gearing up to announce version one very soon!
 
 ## Contributing
 
@@ -63,4 +56,4 @@ MTahrir is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For any inquiries or support, feel free to contact via email at captanx52@gmail.com.
+For any inquiries or support, feel free to contact via email at [captanx52@gmail.com](mailto:captanx52@gmail.com).
