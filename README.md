@@ -2,7 +2,7 @@
     <a href="https://github.com/Captanx52/mtahrir"><img src="https://mtahr.ir/favicon.svg" alt="Logo" width="80" height="80"></a>
     <h3 align="center">MTahrir</h3>
     <p align="center">
-        Enhancing Persian Typing Skills and Speed
+        Supercharge Your Persian Typing Skills with Speed and Precision
     </p>
     <a href="https://mtahr.ir">View Demo</a>
     ·
@@ -63,4 +63,4 @@ MTahrir is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For any inquiries or support, feel free to contact via email at contact@rezasadid.com or rezasadid753@gmail.com.
+For any inquiries or support, feel free to contact via email at captanx52@gmail.com.
